@@ -31,7 +31,7 @@ impl zhoujingya {
 
 impl Programmer for zhoujingya {
     fn topics(&self) -> Vec<&'static str> {
-        vec!["Compilers & Toolchains", "Storage Systems", "Backend & Frontend"]
+        vec!["Compilers & Toolchains", "Backend & Frontend"]
     }
 
     fn languages(&self) -> Vec<&'static str> {
@@ -41,7 +41,7 @@ impl Programmer for zhoujingya {
 
 impl LinuxUser for zhoujingya {
     fn distros() -> Vec<&'static str> {
-        vec!["MacOS", "Ubuntu"]
+        vec!["Ubuntu"]
     }
 }
 
