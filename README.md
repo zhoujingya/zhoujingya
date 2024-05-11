@@ -20,7 +20,7 @@ impl zhoujingya {
     pub fn about() -> Self {
         Self {
             name: "Jing Zhou",
-            emails: "zhoujingfightinghahaha@gmail.com"
+            emails: "zhoujingfightinghahaha@gmail.com, jing.zhou@terapines.com"
             education: Education {
                 bachelor: Degree("Huazhong University of Science and Technology", "Chemical Engineering", 2012..=2016),
                 PHD: Degree("Dalian Institute of Chemical Physics", "Physical Chemistry", 2016..=2019), Drop Out
