@@ -47,7 +47,7 @@ impl LinuxUser for zhoujingya {
 
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,apple,arch,bash,bootstrap,cpp,cmake,css,debian,discord,docker,git,github,githubactions,gitlab,gmail,html,jquery,js,linux,md,mint,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,postman,powershell,py,pycharm,react,regex,rider,rust,sqlite,stackoverflow,ts,ubuntu,vim,vscode,webpack,wordpress,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,bash,cpp,cmake,css,debian,discord,docker,git,github,githubactions,gitlab,gmail,html,jquery,js,linux,md,nodejs,npm,postman,py,rust,ts,ubuntu,vim,vscode)](https://skillicons.dev)
 
 [![ZhouJing's github stats](https://github-readme-stats.vercel.app/api?username=zhoujingya)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoujingya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
