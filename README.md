@@ -47,6 +47,11 @@ impl LinuxUser for zhoujingya {
 }
 
 ```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhoujingya/zhoujingya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhoujingya/zhoujingya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhoujingya/zhoujingya/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,bash,cpp,cmake,css,debian,discord,docker,git,github,githubactions,gitlab,gmail,html,jquery,js,linux,md,nodejs,npm,postman,py,rust,ts,ubuntu,vim,vscode)](https://skillicons.dev)
 
