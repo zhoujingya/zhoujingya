@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My ![Visitor Count](https://profile-counter.glitch.me/zhoujingya/count.svg) Visitor.
 
 ### Hi there 👋
 
